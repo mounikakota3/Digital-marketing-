@@ -1,1 +1,14 @@
 # Digital-marketing-
+
+
+**company**: CODTECH IT SOLUTIONS
+
+**NAME**: Kota.mounika
+
+**INTERN ID**: CT06DG1415
+
+**DOMAIN**: DIGITAL MARKETING 
+
+**DURATION**: 6 WEEKS 
+
+**MENTOR**: NEELA SANTOSH
